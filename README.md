@@ -7,7 +7,7 @@ class Pk1308:
     def __init__(self):
         self.username = 'pk1308'
         self.name = 'Prince Kurien'
-        self.definition = 'Self motivated learner
+        self.definition = 'Self motivated learner'
 
     def __str__(self):
         return self.name
